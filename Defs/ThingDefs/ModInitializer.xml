@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+    <ThingDef>
+        <defName>MeleeHuntingModInitializer</defName>
+        <category>Building</category>
+        <menuHidden>true</menuHidden>
+        <label>MeleeHuntingModInitializer</label>
+        <thingClass>Thing</thingClass>
+        <inspectorTabs>
+            <li>MeleeHunting.ModInitializer</li>
+        </inspectorTabs>
+    </ThingDef>
+
+</Defs>
